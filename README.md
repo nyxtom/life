@@ -18,3 +18,5 @@ And perhaps the most important rule of all...
 (5) Remember: you could be wrong. Even the best scientists have been wrong about some things. Newton, Einstein, and every other great scientist in history -- they all made mistakes. Of course they did. They were human. 
 
 Science is a way to keep from fooling ourselves, and each other.
+
+- Neil deGrasse Tyson
